@@ -14,7 +14,7 @@ While we are unable to directly run files in subdirectories, we can import files
 
 # Original from Fureyu:
 
-## Quick Note:
+### Quick Note:
 If any file does not follow the above mentioned naming standards that TheWarDoctor95 set, it is something I created from scratch and may or may not work. The exception being automine.py, which I implemented from the automine script found on the Razor Enhanced website examples.
 
 ### A bit about what I've done here ###
