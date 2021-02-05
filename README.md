@@ -8,3 +8,5 @@ At the time of this writing, RE does not support the ability to add scripts to t
 - train for training skills
 
 While we are unable to directly run files in subdirectories, we can import files from subdirectories that have been made into submodules by adding the \_\_init\_\_.py file to them (e.g. [the glossary submodule](glossary)). This is handy for having a central location for code that is referrenced in multiple files.
+
+If any file does not follow the above mentioned naming standards that TheWarDoctor95 set, it is something I created from scratch and may or may not work. The exception being automine.py, which I implemented from the automine script found on the Razor Enhanced website examples.
