@@ -18,7 +18,7 @@ While we are unable to directly run files in subdirectories, we can import files
 If any file does not follow the above mentioned naming standards that TheWarDoctor95 set, it is something I created from scratch and may or may not work. The exception being automine.py, which I implemented from the automine script found on the Razor Enhanced website examples.
 
 ### How to extract properly ###
-When you extract these files, do so directly into the `Scripts` directory in your Razor Enhanced file system, not into the same named folder as the .zip that you download. All of the <scriptName>.py files need to be in the `Scripts` directory to run, and all of the assets that they import will need to be there as well.
+When you extract these files, do so directly into the `Scripts` directory in your Razor Enhanced file system, not into the same named folder as the .zip that you download. All of the scriptName.py files that are not in a separate folder (glossary, Items, utilities) need to be in the `Scripts` directory to run, and all of the assets that they import will need to be there as well.
 
 ### A bit about what I've done here ###
 This repository is adaptations done to TheWarDoctor95's scripts in order to be used on Ultime Online New Beginnings free shard. I am making edits to them as I encounter issues while running them while playing on the server. 
